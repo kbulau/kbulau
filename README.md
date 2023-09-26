@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there! I'm Kurt 👋
++ 👨‍💻 I'm a co-creator of ScanQL, a metrics and visualizer tool for PostgreSQL databases
++ 💻 I enjoy fullstack work; However, I'm not opposed to working in frontend or backend
++ ⛰️ In my free time, I enjoy hiking with scrambling, playing league of legends, and volunteering
++ 🌟 [Feel free to reach out!](https://www.linkedin.com/in/kurt-bulau/)
 
 <!--
 **kbulau/kbulau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
