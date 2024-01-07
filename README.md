@@ -1,6 +1,6 @@
 ### Hey there! I'm Kurt 👋
 + 👨‍💻 I'm a co-creator of ScanQL, a metrics and visualizer tool for PostgreSQL databases
-+ 💻 I enjoy fullstack work; However, I'm not opposed to working in frontend or backend
++ 💻 I enjoy learning about things on the frontend and backend
 + ⛰️ In my free time, I enjoy hiking with scrambling, playing league of legends, and volunteering
 + 🌟 [Feel free to reach out!](https://www.linkedin.com/in/kurt-bulau/)
 
