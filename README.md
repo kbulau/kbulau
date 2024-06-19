@@ -1,7 +1,8 @@
 ### Hey there! I'm Kurt 👋
++ 💻 I'm a Software Engineer at Banyon Data, working on the web development team
 + 👨‍💻 I'm a co-creator of ScanQL, a metrics and visualizer tool for PostgreSQL databases
-+ 💻 I enjoy learning about things on the frontend and backend
-+ ⛰️ In my free time, I enjoy hiking with scrambling, playing league of legends, and volunteering
++ 🔭 I'm currently working on learning more about DevOps and getting my AWS certification
++ ⛰️ In my free time, I enjoy rockclimbing, playing card/board games with friends, and volunteering
 + 🌟 [Feel free to reach out!](https://www.linkedin.com/in/kurt-bulau/)
 
 <!--
