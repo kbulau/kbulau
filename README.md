@@ -1,6 +1,6 @@
 ### Hey there! I'm Kurt 👋
 + 💻 I'm an Intern at Thomson Rheuters, working on the Practical Law Team
-+ 🔭 I'm currently working on learning more about DevOps
++ 🔭 I'm currently working on learning more about MLOps, Deep Learning, as well as Bayesian Optemization
 + ⛰️ In my free time, I enjoy rockclimbing, playing card/board games with friends, and volunteering
 + 🌟 [Feel free to reach out!](https://www.linkedin.com/in/kurt-bulau/)
 
