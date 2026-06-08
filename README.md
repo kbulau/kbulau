@@ -1,5 +1,5 @@
 ### Hey there! I'm Kurt 👋
-+ 💻 I'm a Software Engineer at Banyon Data, working on the web development team
++ 💻 I'm an Intern at Thomson Rheuters, working on the Practical Law Team
 + 🔭 I'm currently working on learning more about DevOps
 + ⛰️ In my free time, I enjoy rockclimbing, playing card/board games with friends, and volunteering
 + 🌟 [Feel free to reach out!](https://www.linkedin.com/in/kurt-bulau/)
